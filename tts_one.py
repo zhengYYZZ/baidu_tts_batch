@@ -13,7 +13,7 @@ SPEAKER=0	# 发音人选择, 0为普通女声，1为普通男生，3为情感合
 SPEED=5		# Speed, 0 ~ 15; 语速，取值0-9，默认为5中语速
 PITCH=5		# Pitch, 0 ~ 15; 音调，取值0-9，默认为5中语调
 VOLUME=8	# Volume, 0 ~ 9; 音量，取值0-9，默认为5中音量
-AUE=6		# Aue,下载音频的格式 3：mp3(default) 4： pcm-16k 5： pcm-8k 6. wav
+AUE=3		# Aue,下载音频的格式 3：mp3(default) 4： pcm-16k 5： pcm-8k 6. wav
 
 def readName(fileName):
     """
