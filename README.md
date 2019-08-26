@@ -3,7 +3,7 @@
 
 ## run
 ```python
-python3 tts_one.py
+python3 tts.py
 ```
 ## name
 ##### 生成的mp3文件命名储存在fileName.txt文件中，以换行符为分隔
