@@ -1,5 +1,5 @@
 # baidu_tts_batch
-利用百度语音合成平台提供的API进行批量语音合成，[语音合成-百度AI开放平台](https://ai.baidu.com/tech/speech/tts).
+利用百度语音合成平台提供的API进行批量语音合成，[语音合成-百度AI开放平台](https://ai.baidu.com/tech/speech/tts_online).
 
 ## run
 ```python
