@@ -1,6 +1,6 @@
 #! /usr/bin/python3
 # -*- coding: utf-8 -*- 
-from aip import AipSpeech
+from api import AipSpeech
 import sys
 import os
 from os.path import join,basename
